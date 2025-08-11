@@ -87,4 +87,4 @@ Program Manager
 6. at the end, creating executive summary must be at format Amazon 6-pager memo
    1. you can learn 6-pager from here: https://www.sixpagermemo.com/blog/amazon-six-pager-template
 7. use darker backgroud with white font and vice versa, use more contrast color options between font and backgroud fill since i use dark mode
-8. always create chandelog.md so people can contribute to prompts this
+8. always create changelog.md so people can contribute to prompts this
