@@ -1,4 +1,4 @@
-# Zipcar Case: Understanding the $2M Convertible Bridge Note
+# Zipcar Case Study (2003-2004): Understanding the $2M Convertible Bridge Note
 
 ## 📊 What is a Convertible Bridge Note?
 
@@ -81,13 +81,21 @@ graph TD
 | Pressure to raise next round | Quick access to capital |
 | Dilution at conversion | Lower transaction costs |
 
-## 🎯 Strategic Context for Zipcar
+## 🎯 Historical Context: Early 2000s Car Sharing Pioneer
 
-The $2M convertible bridge note likely served to:
-1. **Fund immediate operations** while pursuing growth
-2. **Bridge to institutional funding** round
-3. **Avoid undervaluing** the company early
-4. **Maintain momentum** without lengthy negotiations
+**Zipcar Timeline Context**:
+- **Founded**: 2000 by Antje Danielson and Robin Chase
+- **Bridge Note Period**: ~2003-2004 (early growth phase)
+- **Market Environment**: Pre-smartphone era, early internet adoption
+- **Technology**: Basic web platform, RFID car access cards
+
+The $2M convertible bridge note served to:
+1. **Fund immediate operations** during early market validation phase
+2. **Bridge to institutional funding** before widespread tech venture interest
+3. **Avoid undervaluing** the pioneer car-sharing concept
+4. **Maintain momentum** in an unproven market category
+
+**Historical Significance**: This case represents early-stage funding challenges before the tech boom, when car-sharing was an untested business model requiring significant capital for fleet acquisition and technology infrastructure.
 
 ## 📝 Key Takeaway
 
@@ -95,4 +103,4 @@ A convertible bridge note is essentially a **temporary loan that becomes ownersh
 
 ---
 
-*This "bridge" financing allows startups like Zipcar to access critical capital quickly while deferring equity dilution decisions until a more opportune time.*
+*Historical Note: This early 2000s "bridge" financing case demonstrates how startups accessed critical capital before the modern venture ecosystem, when unproven business models like car-sharing faced significant funding challenges due to high capital requirements and uncertain market acceptance.*

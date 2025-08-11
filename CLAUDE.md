@@ -88,3 +88,4 @@ Program Manager
    1. you can learn 6-pager from here: https://www.sixpagermemo.com/blog/amazon-six-pager-template
 7. use darker backgroud with white font and vice versa, use more contrast color options between font and backgroud fill since i use dark mode
 8. always create and/or update global changelog.md so people can contribute to prompts this
+9. ALWAYS REMEMBER! to make answer/suggestions timeline accurate since the case might backdated to 2010-ish forward, always refer to the year when it is mentioned in the case
