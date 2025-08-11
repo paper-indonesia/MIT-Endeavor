@@ -53,11 +53,11 @@ graph TD
 - **Simple Load Distribution**: Basic round-robin routing across available MNO connections during peak times
 
 **2. "Mutual Dependency Revenue Model" (2010 Context)**
-Instead of bigger revenue share, create **mutual value**:
+Instead of bigger revenue share, create **mutual value** (per notes: "investors and entrepreneurs should feel like same team"):
 - **Customer Data Insights**: Share anonymized transaction patterns (early big data concept)
 - **Infrastructure Efficiency**: Help MNOs optimize USSD capacity planning 
-- **Customer Acquisition**: Revenue sharing for MNO customers who become active bKash users
-- **Joint Marketing**: Co-branded campaigns to promote mobile financial services adoption
+- **CAC Optimization**: Revenue sharing reduces Customer Acquisition Cost for both parties
+- **Joint Marketing**: Co-branded campaigns (Note: "managing CAC" is critical GTM challenge per your notes)
 
 **3. Power Balance Strategy (2010 Context)**
 - **Multi-MNO Architecture**: Build platform that can easily integrate with any operator (reduces single-point dependency)
@@ -73,11 +73,11 @@ Instead of bigger revenue share, create **mutual value**:
 - **Regulatory First**: Working with regulators to establish industry frameworks
 - **Technology Resilience**: Multiple communication channels for critical services
 
-**Historical Context:**
+**Historical Context & Scaling Lessons:**
 - bKash became Bangladesh's largest mobile financial service provider
-- Pioneered mobile money in South Asia before smartphone adoption
-- Successfully navigated early mobile payment infrastructure challenges
-- **Impact**: Demonstrated viability of mobile financial services in developing markets
+- **PMF Achievement**: 40%+ users actively using service (per notes: key PMF metric)
+- **Founding Team**: Navigated "corporate spinoff unlearning" challenge 
+- **GTM Evolution**: Kept pushing beyond initial success (avoiding "if it ain't broke" trap)
 
 ---
 
@@ -91,10 +91,10 @@ Instead of bigger revenue share, create **mutual value**:
 
 #### **🎯 Optimal Funding Amount: $750K-$1.2M**
 
-**Strategic Rationale:**
+**Strategic Rationale (per notes: "optimize for partner not valuation"):**
 - **$750K Minimum**: 18-month runway + 6-month buffer
-- **$1.2M Maximum**: Maintain 15-20% dilution for solo founder
-- **Target**: 24-month runway to reach $10M+ AUM
+- **$1.2M Maximum**: Maintain 15-20% dilution for solo founder (Note: 149/150 successful founders had co-founders)
+- **Target**: 24-month runway to achieve Product-Market Fit (PMF)
 
 ```mermaid
 pie title Christina's $1M Funding Allocation
@@ -112,11 +112,12 @@ pie title Christina's $1M Funding Allocation
 - **Backtesting Platform**: Create interactive tool showing strategy performance across market conditions
 - **Academic Validation**: Get MIT professors to peer-review the algorithm (leverage school credibility)
 
-**2. "Gender Bias Jujitsu"**
-Turn bias into competitive intelligence:
-- **Prepared Response Arsenal**: Pre-written, data-backed answers to predictable gender-biased questions
-- **Female LP Network**: Target the 400+ female executives with investment authority
-- **Diverse LP Strategy**: Research shows diverse LP bases outperform by 15%
+**2. "Founder Characteristics Alignment"**
+Match your profile to successful founder traits (per notes):
+- **Over-achiever**: MIT quantitative background + proven algorithm performance
+- **Tenacious**: Solo founder tackling institutional market (shows grit)
+- **Listen & Synthesize**: Convert feedback into actionable improvements
+- **Learning from Failure**: Document lessons from initial rejections
 
 **3. "The Student Advantage Reframe"**
 Transform "inexperience" into "unfair advantage":
@@ -291,15 +292,36 @@ graph TD
 - **Data & Partnerships**: 10% of revenue (recurring)
 - **Platform Services**: 5% of revenue (marketplace fees)
 
-**Expected Outcomes:**
+**Expected Outcomes (2003-2004 Timeline):**
 - **18-month payback** on crisis recovery investments
-- **35% higher LTV/CAC** ratio through diversified revenue
-- **Sustainable growth**: 40% year-over-year revenue increase
-- **Strategic positioning**: Platform leader vs. single-service provider
+- **CAC Management**: Create scalable GTM engine (per notes: critical challenge at $100M ARR)
+- **LTV/CAC Ratio**: Target 3:1 minimum for sustainable unit economics
+- **Platform Transition**: Move from product to platform at $25M revenue (per notes)
 
 ---
 
 ## 🎯 Integration: Cross-Case Learning Framework
+
+### **📊 Scaling Lessons Applied (from 150 Successful Founders)**
+
+#### **Top 3 Obstacles to $200M ARR (Applied to Cases):**
+
+1. **Right People at Right Level**
+   - **bKash**: Cycle out MNO-dependent team as platform scales
+   - **Christina Xi**: Solo founder risk - needs co-founder for scale
+   - **Global Ventures**: Co-GP decision critical for scaling
+   - **Zipcar**: Founder may need to step back from operations (2003 context)
+
+2. **Pivoting/Major Change**
+   - **bKash**: From USSD-dependent to multi-channel platform
+   - **Christina Xi**: From personal trading to institutional platform
+   - **Global Ventures**: From regional focus to global relevance
+   - **Zipcar**: From car-sharing to mobility ecosystem (like Twitter/Slack pivots)
+
+3. **Go-to-Market Evolution**
+   - **Managing CAC**: All cases need sustainable customer acquisition
+   - **Setting Partnerships**: Critical for all four cases
+   - **Pricing Changes**: Evolution from startup to scale pricing
 
 ### **🧠 MIT Synthesis: Universal Principles**
 
@@ -324,13 +346,33 @@ mindmap
       Stakeholder Alignment
 ```
 
-#### **🎯 Key Insights for MIT Discussion:**
+#### **🎯 Key Insights for MIT Discussion (Enhanced with Notes):**
 
-1. **Constraint Reframing**: Every limitation contains a competitive advantage
-2. **Stakeholder Alignment**: Win-win structures outperform zero-sum negotiations
-3. **Technology Leapfrogging**: Emerging markets can skip infrastructure generations
-4. **Credibility Substitution**: Proof replaces pedigree in startup contexts
-5. **Platform Thinking**: Multi-sided markets create defensible moats
+1. **Product-Market Fit (PMF) Metrics**:
+   - **40% Rule**: 40% of users should actively use product (bKash achieved this)
+   - **Avoid PMF Traps**: Don't assume early adopters = mass market
+   - **Evolve PMF**: Must continuously adapt as market changes
+
+2. **Founding Team Dynamics**:
+   - **Co-founder Critical**: 149/150 successful founders had co-founders
+   - **Complementary Skills**: Up to 4 co-founders increases success
+   - **Everything in Writing**: Get good lawyer early (especially for equity)
+
+3. **Culture as Operating System**:
+   - **Sense of Urgency**: Balance founder urgency with process needs
+   - **Customer Centricity**: Every decision through customer lens
+   - **Accountability**: At every level, not just C-suite
+   - **Roll-up-sleeves**: Maintain hands-on culture even at scale
+
+4. **CAC and Unit Economics**:
+   - **LTV/CAC > 3**: Minimum for sustainable growth
+   - **CAC Management**: Critical challenge at scale
+   - **Platform Economics**: Transition at $25M revenue for better margins
+
+5. **Investor Relations**:
+   - **Optimize for Partner, Not Valuation**: Right investor > higher price
+   - **Same Team Mentality**: Investors should feel aligned with founders
+   - **Push Back**: You know business best, don't take everything as gospel
 
 ---
 
