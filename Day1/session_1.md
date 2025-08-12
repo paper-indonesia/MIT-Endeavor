@@ -5,7 +5,7 @@
 
 **Date:** January 2025  
 **Prepared for:** MIT Endeavor Program Participants  
-**Subject:** Strategic Framework for Scaling Startups from Zero to $200M ARR  
+**Subject:** Strategic Framework for Scaling Startups from Zero to $100MM ARR  
 **Author:** MIT Endeavor Program Analysis Team
 
 ---
