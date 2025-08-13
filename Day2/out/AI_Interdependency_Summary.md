@@ -148,9 +148,9 @@ flowchart TD
 flowchart TD
     Amazon[Amazon Platform Control] --> Three{Three Anticompetitive<br/>Practices}
     
-    Three --> Data[1. Information Asymmetry<br/>Access to all platform data]
-    Three --> Search[2. Self-Preferencing<br/>Prioritize own products]
-    Three --> Nessie[3. Project Nessie<br/>Price manipulation algorithm]
+    Three --> Data[1 Information Asymmetry<br/>Access to all platform data]
+    Three --> Search[2 Self-Preferencing<br/>Prioritize own products]
+    Three --> Nessie[3 Project Nessie<br/>Price manipulation algorithm]
     
     Data --> Copy[Copy successful<br/>competitor products]
     Search --> Bias[Biased search results]
